@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Jun 14 19:40:50 2020
+# Process ID: 10052
+# Current directory: E:/study/Computer System/Single_cycle_CPU/Single_cycle_CPU.runs/ram_synth_1
+# Command line: vivado.exe -log ram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ram.tcl
+# Log file: E:/study/Computer System/Single_cycle_CPU/Single_cycle_CPU.runs/ram_synth_1/ram.vds
+# Journal file: E:/study/Computer System/Single_cycle_CPU/Single_cycle_CPU.runs/ram_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ram.tcl -notrace
